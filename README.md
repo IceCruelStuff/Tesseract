@@ -11,7 +11,7 @@ Tesseract is a new advanced server software based on PocketMine-MP.<br>
 **Notice: Report any issues and we will try to fix them for you.**
 
 > ## Build
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/IceCruelStuff/Tesseract#build)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/TesseractPro/Tesseract#build)
 
 > ## Quick Links (Instead of scrolling, click these!)
 
