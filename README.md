@@ -2,6 +2,9 @@
     <img src="https://i.imgur.com/1ga0ATy.jpg" alt="TesseractPro logo">
 </p>
 
+TesseractPro
+==============
+
 Introduction
 -------------
 TesseractPro is a new advanced server software based on PocketMine-MP.<br>
@@ -37,7 +40,7 @@ __[Back to QuickLinks](https://github.com/TesseractPro/TesseractPro#quick-links-
 > ## Resources
 
 **External Links**
-Your Tesseract Server needs Visual Studio C++ Redistributable 2015 (If you are on windows).<br>
+Your TesseractPro Server needs Visual Studio C++ Redistributable 2015 (If you are on windows).<br>
 Download it **__[here](https://www.microsoft.com/en-us/download/details.aspx?id=48145)__** <br>
 
 __[Back to QuickLinks](https://github.com/TesseractPro/TesseractPro#quick-links-instead-of-scrolling-click-these)__
