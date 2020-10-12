@@ -15,9 +15,9 @@ Tesseract is a new advanced server software based on PocketMine-MP.<br>
 
 > ## Quick Links (Instead of scrolling, click these!)
 
-__[Installation](https://github.com/TesseractTeam/Tesseract/blob/master/README.md#installation)__ <br>
-__[Resources](https://github.com/TesseractTeam/Tesseract/blob/master/README.md#resources)__ <br>
-__[Acknowledgements](https://github.com/TesseractTeam/Tesseract/blob/master/README.md#acknowledgements)__ <br>
+__[Installation](https://github.com/IceCruelStuff/Tesseract/blob/master/README.md#installation)__ <br>
+__[Resources](https://github.com/IceCruelStuff/Tesseract/blob/master/README.md#resources)__ <br>
+__[Acknowledgements](https://github.com/IceCruelStuff/Tesseract/blob/master/README.md#acknowledgements)__ <br>
 __[License](https://github.com/IceCruelStuff/Tesseract/blob/master/README.md#license)__ <br>
 __[Third Party Libraries and Protocols Used](https://github.com/IceCruelStuff/Tesseract/blob/master/README.md#third-party-librariesprotocols-used)__ <br>
 
@@ -31,7 +31,7 @@ Supported platforms: Linux, Windows, OS X, Raspberry Pi, and ODROID <br>
 **Comming soon**
 <!-- [Installation](https://github.com/TesseractTeam/Tesseract/wiki/Installation)<br> -->
 
-__[Back to QuickLinks](https://github.com/TesseractTeam/Tesseract/blob/master/README.md#quick-links-instead-of-scrolling-click-these)__
+__[Back to QuickLinks](https://github.com/IceCruelStuff/Tesseract/blob/master/README.md#quick-links-instead-of-scrolling-click-these)__
 <br>
 
 > ## Resources
@@ -40,7 +40,7 @@ __[Back to QuickLinks](https://github.com/TesseractTeam/Tesseract/blob/master/RE
 Your Tesseract Server needs Visual Studio C++ Redistributable 2015 (If you are on windows).<br>
 Download it **__[here](https://www.microsoft.com/en-us/download/details.aspx?id=48145)__** <br>
 
-__[Back to QuickLinks](https://github.com/TesseractTeam/Tesseract/blob/master/README.md#quick-links-instead-of-scrolling-click-these)__
+__[Back to QuickLinks](https://github.com/IceCruelStuff/Tesseract/blob/master/README.md#quick-links-instead-of-scrolling-click-these)__
 <br>
 
 > ## Acknowledgements
@@ -49,7 +49,7 @@ __[Back to QuickLinks](https://github.com/TesseractTeam/Tesseract/blob/master/RE
 - Tesseract is also a **spoon** of **[Pocketmine-MP](http://github.com/pmmp/PocketMine-MP/)** 
 - Most of the original code was written by **[PocketMine Team](https://github.com/orgs/pmmp/people)** and **[iTX Technologies](https://github.com/orgs/iTXTech/people)**. <br>
 
-__[Back to QuickLinks](https://github.com/TesseractTeam/Tesseract/blob/master/README.md#quick-links-instead-of-scrolling-click-these)__
+__[Back to QuickLinks](https://github.com/IceCruelStuff/Tesseract/blob/master/README.md#quick-links-instead-of-scrolling-click-these)__
 <br>
 
 > ## License
