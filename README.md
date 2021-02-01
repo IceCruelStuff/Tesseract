@@ -9,9 +9,9 @@ Introduction
 -------------
 TesseractPro is a new advanced server software based on PocketMine-MP.<br>
 <br>
-**NOTE: TesseractPro has been updated to Minecraft 1.0 but there are still a lot of bugs. Please report them in our issue tracker.**
+**Note: TesseractPro has been updated to Minecraft 1.0 but there might be still some issues.**
 
-**Notice: Report any issues and we will try to fix them for you.**
+**If there are any issues, report them at our [issue tracker](https://github.com/TesseractPro/TesseractPro/issues).**
 
 > ## Build
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/TesseractPro/TesseractPro#build)
@@ -39,8 +39,8 @@ __[Back to QuickLinks](https://github.com/TesseractPro/TesseractPro#quick-links-
 
 > ## Resources
 
-**External Links**
-Your TesseractPro Server needs Visual Studio C++ Redistributable 2015 (If you are on windows).<br>
+**External Links** <br>
+Your TesseractPro Server needs Visual Studio C++ Redistributable 2015 (If you are on windows). <br>
 Download it **__[here](https://www.microsoft.com/en-us/download/details.aspx?id=48145)__** <br>
 
 __[Back to QuickLinks](https://github.com/TesseractPro/TesseractPro#quick-links-instead-of-scrolling-click-these)__
@@ -48,9 +48,8 @@ __[Back to QuickLinks](https://github.com/TesseractPro/TesseractPro#quick-links-
 
 > ## Acknowledgements
 
-- Tesseract is a **spoon** of **[Genisys](https://github.com/iTXTech/Genisys)** 
-- Tesseract is also a **spoon** of **[Pocketmine-MP](http://github.com/pmmp/PocketMine-MP/)** 
-- Most of the original code was written by **[PocketMine Team](https://github.com/orgs/pmmp/people)** and **[iTX Technologies](https://github.com/orgs/iTXTech/people)**. <br>
+- Tesseract is forked from **[pmmp/PocketMine-MP](http://github.com/pmmp/PocketMine-MP/)** 
+- Most of the original code was written by **[PocketMine-MP Team](https://github.com/orgs/pmmp/people)** and **[iTXTech](https://github.com/orgs/iTXTech/people)**. <br>
 
 __[Back to QuickLinks](https://github.com/TesseractPro/TesseractPro#quick-links-instead-of-scrolling-click-these)__
 <br>
