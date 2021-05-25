@@ -39,7 +39,8 @@ __[Back to QuickLinks](https://github.com/TesseractPro/TesseractPro#quick-links-
 
 > ## Resources
 
-**External Links** <br>
+**External Links**
+<br>
 Your TesseractPro Server needs Visual Studio C++ Redistributable 2015 (If you are on windows). <br>
 Download it **__[here](https://www.microsoft.com/en-us/download/details.aspx?id=48145)__** <br>
 
